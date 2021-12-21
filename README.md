@@ -8,7 +8,7 @@
 </3>
 <p/>
 <p align="left">
-- 🔭 I’m currently working on my first App [Phono](https://github.com/leonardpaulus/phono) 
+- 🔭 I’m currently working on my first App <a href="https://github.com/leonardpaulus/phono">Phono</a>
 </p>
 <p align="left">
 - 🌱 I’m currently learning GatsbyJS 
@@ -17,7 +17,7 @@
 - 💬 Ask me about REACT & Animations 
 </p>
 <p align="left">
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leonard-paulus-245b731a8/) 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/leonard-paulus-245b731a8/">Linkedin</a> 
 </p>
 <p align="left">
 - ⚡ Fun fact: At first, I didn't want to be a developer but a UX Designer instead 

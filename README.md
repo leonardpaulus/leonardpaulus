@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, my name is Leo</h1>
+<h2 align="center">I am Junior Frontend Developer</h2>
 
-<!--
-**leonardpaulus/leonardpaulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">From print design to web design to web development.</3>
 
-Here are some ideas to get you started:
+Skills:  REACT / JS / HTML / CSS / REACT Spring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my first App [Phono](https://github.com/leonardpaulus/phono) 
+- 🌱 I’m currently learning GatsbyJS 
+- 💬 Ask me about REACT & Animations 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leonard-paulus-245b731a8/) 
+- ⚡ Fun fact: At first, I didn't want to be a developer but a UX Designer instead 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardpaulus&theme=highcontrast" alt="leonardpaulus" /></p>
+
+
+

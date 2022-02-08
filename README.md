@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on my first App <a href="https://github.com/leonardpaulus/phono">Phono</a>
 </p>
 <p align="left">
-- 🌱 I’m currently learning GatsbyJS 
+- 🌱 I’m currently learning VueJS 
 </p>
 <p align="left">
 - 💬 Ask me about REACT & Animations 
